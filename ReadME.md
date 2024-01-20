@@ -6,9 +6,9 @@
 *- 💬 Join our Discord: discord.gg/invite/???*
 
 ## 🌐 Features
-**- Over 300+ commands**
+- Over 300+ commands
 
-**- Better plugin system**
+- Better plugin system
 
 **- Settings w/ toggles**
 
