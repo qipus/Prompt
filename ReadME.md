@@ -25,4 +25,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/qipus/Prompt/main/Mai
 ```
 
 ## 🧠 Learn how to use Prompt
-**- Plugins Wiki -** soon
+- Plugins Wiki - soon
