@@ -1,22 +1,22 @@
 # 📋 Prompt V2
 ## 🛠️ An Admin Utility Script made for Roblox
 
-**- ❗ This Admin Script used to be Nameless Admin but is a re-named version and a more modernized version of it**
+- ❗ **This Admin Script used to be Nameless Admin but is a re-named version and a more modernized version of it**
 
-*- 💬 Join our Discord: discord.gg/invite/???*
+- 💬 *Join our Discord: discord.gg/invite/???*
 
 ## 🌐 Features
 - Over 300+ commands
 
 - Better plugin system
 
-**- Settings w/ toggles**
+- Settings w/ toggles
 
-**- Command keybinds**
+- Command keybinds
 
-**- Waypoint System**
+- Waypoint System
 
-**- Themes**
+- Themes
 
 ## 🌐 Loadstring [Not Working]
 
