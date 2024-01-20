@@ -21,7 +21,7 @@
 ##🌐 Loadstring [Not Working]
 
 ```lua
-   loadstring(game:HttpGet("https://raw.githubusercontent.com/qipus/Prompt/main/Main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/qipus/Prompt/main/Main.lua"))()
 ```
 
 ## 🧠 Learn how to use Prompt
