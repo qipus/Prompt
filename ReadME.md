@@ -10,7 +10,7 @@
 
 - Better plugin system
 
-- Settings w/ toggles
+- Settings with toggles
 
 - Command keybinds
 
