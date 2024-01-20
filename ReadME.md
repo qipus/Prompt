@@ -19,4 +19,4 @@
 **· Themes**
 
 ## Learn how to use Prompt
-**· Plugins Wiki - ** soon
+**· Plugins Wiki -** soon
