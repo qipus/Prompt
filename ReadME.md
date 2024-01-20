@@ -5,7 +5,7 @@
 
 * 💬 Join our Discord: discord.gg/invite/???*
 
-##🌐 Features
+## 🌐 Features
 **- Over 300+ commands**
 
 **- Better plugin system**
@@ -18,7 +18,7 @@
 
 **- Themes**
 
-##🌐 Loadstring [Not Working]
+## 🌐 Loadstring [Not Working]
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/qipus/Prompt/main/Main.lua"))()
