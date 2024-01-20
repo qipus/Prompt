@@ -7,8 +7,16 @@
 
 ## Features
 **· Over 300+ commands**
+
 **· Better plugin system**
+
 **· Settings w/ toggles**
+
 **· Command keybinds**
+
 **· Waypoint System**
+
 **· Themes**
+
+## Learn how to use Prompt
+**· Plugins Wiki - ** soon
