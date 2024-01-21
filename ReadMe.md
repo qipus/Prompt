@@ -1,11 +1,11 @@
-# 📋 Prompt V2
-## 🛠️ Admin Command Script made for Roblox
+# Prompt V2
+## Admin Command Script made for Roblox
 
 - ❗ **This Admin Script used to be Nameless Admin but is a re-named version and a more modernized version of it**
 
 - 💬 *Join our Discord: discord.gg/invite/???*
 
-## 🌐 Features
+## Features
 - Over 300+ commands
 
 - Better plugin system
@@ -18,11 +18,11 @@
 
 - Themes
 
-## 🌐 Loadstring [Not Working]
+## Loadstring [Not Working]
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/qipus/Prompt/main/Main.lua"))()
 ```
 
-## 🧠 Learn how to use Prompt
+## Learn how to use Prompt
 - Plugins Wiki - soon
