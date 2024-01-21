@@ -1,5 +1,5 @@
 # 📋 Prompt V2
-## 🛠️ An Admin Utility Script made for Roblox
+## 🛠️ Admin Command Script made for Roblox
 
 - ❗ **This Admin Script used to be Nameless Admin but is a re-named version and a more modernized version of it**
 
